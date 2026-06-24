@@ -1,4 +1,3 @@
-setwd("D:/kuliah/skripsi/spesia")
 library(readxl)
 library(openxlsx)
 library(cluster)
